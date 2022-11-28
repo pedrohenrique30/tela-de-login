@@ -13,10 +13,6 @@
 
 <br>
 
-<p align="center">
-  <video src="./.github/demo.mp4" controls>
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:

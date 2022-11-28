@@ -73,7 +73,7 @@ legend {
   transition: all 0.3s ease-out;
 }
 
-.textfield input:focus + label {
+.textfield input:focus + label, .textfield input:valid + label {
   font-size: 0.7rem;
   margin-top: 0;
   color: #3b409e;
